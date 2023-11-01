@@ -219,7 +219,7 @@ func main() {
 
 <div align="center">
 
-**cdncheck** is made with ❤️ by the [khulnasoft-lab](https://khulnasoft-lab.io) team and distributed under [MIT License](LICENSE.md).
+**cdncheck** is made with ❤️ by the [khulnasoft-lab](https://khulnasoft.com) team and distributed under [MIT License](LICENSE.md).
 
 
 <a href="https://discord.gg/khulnasoft-lab"><img src="https://raw.githubusercontent.com/khulnasoft-lab/nuclei-burp-plugin/main/static/join-discord.png" width="300" alt="Join Discord"></a>
