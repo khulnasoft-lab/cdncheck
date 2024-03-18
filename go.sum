@@ -152,6 +152,8 @@ github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222 h1:h2Jiz
 github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222/go.mod h1:s41lQh6dIsDWIC1OWh7ChWJXLH0zkJ9KHZVqA7vHyuQ=
 github.com/weppos/publicsuffix-go v0.30.2-0.20240206082113-a91270e3779c h1:Uylh38opf81KBwnMGIBCuHrIoHBNayYoot+ADip3lXE=
 github.com/weppos/publicsuffix-go v0.30.2-0.20240206082113-a91270e3779c/go.mod h1:v7j8MuFp1CIYgAd2n7xEUctTbsreRd1vPmOwyzmGFiE=
+github.com/weppos/publicsuffix-go v0.30.2 h1:Np18yzfMR90jNampWFs7iSh2sw/qCZkhL41/ffyihCU=
+github.com/weppos/publicsuffix-go v0.30.2/go.mod h1:/hGscit36Yt+wammfBBwdMdxBT8btsTt6KvwO9OvMyM=
 github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 h1:nIPpBwaJSVYIxUFsDv3M8ofmx9yWTog9BfvIu0q41lo=
 github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8/go.mod h1:HUYIGzjTL3rfEspMxjDjgmT5uz5wzYJKVo23qUhYTos=
 github.com/yl2chen/cidranger v1.0.2 h1:lbOWZVCG1tCRX4u24kuM1Tb4nHqWkDxwLdoS+SevawU=
@@ -258,6 +260,8 @@ google.golang.org/protobuf v1.28.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqw
 google.golang.org/protobuf v1.28.1/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
 google.golang.org/protobuf v1.31.0 h1:g0LDEJHgrBl9N9r17Ru3sqWhkIx2NB67okBHPwC7hs8=
 google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
+google.golang.org/protobuf v1.33.0 h1:uNO2rsAINq/JlFpSdYEKIZ0uKD/R9cpdv0T+yoGwGmI=
+google.golang.org/protobuf v1.33.0/go.mod h1:c6P6GXX6sHbq/GpV6MGZEdwhWPcYBgnhAHhKbcUYpos=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/djherbis/times.v1 v1.3.0 h1:uxMS4iMtH6Pwsxog094W0FYldiNnfY/xba00vq6C2+o=

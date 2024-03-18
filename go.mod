@@ -13,7 +13,7 @@ require (
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.4
-	github.com/weppos/publicsuffix-go v0.30.2-0.20240206082113-a91270e3779c
+	github.com/weppos/publicsuffix-go v0.30.2
 	github.com/yl2chen/cidranger v1.0.2
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -77,6 +77,6 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/djherbis/times.v1 v1.3.0 // indirect
 )
